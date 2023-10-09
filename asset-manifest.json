@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/linguabooks/static/css/main.e46060ab.css",
-    "main.js": "/linguabooks/static/js/main.4d575f5b.js",
+    "main.css": "/linguabooks/static/css/main.e406726c.css",
+    "main.js": "/linguabooks/static/js/main.e3418a10.js",
     "static/js/787.e6cdad39.chunk.js": "/linguabooks/static/js/787.e6cdad39.chunk.js",
     "static/media/loadingIcon.svg": "/linguabooks/static/media/loadingIcon.21491bcecd0e2d71d6782ebdb050b23b.svg",
     "index.html": "/linguabooks/index.html",
     "static/media/arrowIcon.svg": "/linguabooks/static/media/arrowIcon.4b17c465ab94c7ef6c47b5630ae17ac7.svg",
-    "main.e46060ab.css.map": "/linguabooks/static/css/main.e46060ab.css.map",
-    "main.4d575f5b.js.map": "/linguabooks/static/js/main.4d575f5b.js.map",
+    "main.e406726c.css.map": "/linguabooks/static/css/main.e406726c.css.map",
+    "main.e3418a10.js.map": "/linguabooks/static/js/main.e3418a10.js.map",
     "787.e6cdad39.chunk.js.map": "/linguabooks/static/js/787.e6cdad39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e46060ab.css",
-    "static/js/main.4d575f5b.js"
+    "static/css/main.e406726c.css",
+    "static/js/main.e3418a10.js"
   ]
 }
