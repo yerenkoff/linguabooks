@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/linguabooks/static/css/main.f086c70f.css",
-    "main.js": "/linguabooks/static/js/main.2e01a30b.js",
+    "main.js": "/linguabooks/static/js/main.d93a2eb0.js",
     "static/js/787.e6cdad39.chunk.js": "/linguabooks/static/js/787.e6cdad39.chunk.js",
     "static/media/loadingIcon.svg": "/linguabooks/static/media/loadingIcon.21491bcecd0e2d71d6782ebdb050b23b.svg",
     "static/media/star.svg": "/linguabooks/static/media/star.c3ce71fde6f74597af29.svg",
@@ -10,11 +10,11 @@
     "static/media/arrowIcon.svg": "/linguabooks/static/media/arrowIcon.4b17c465ab94c7ef6c47b5630ae17ac7.svg",
     "index.html": "/linguabooks/index.html",
     "main.f086c70f.css.map": "/linguabooks/static/css/main.f086c70f.css.map",
-    "main.2e01a30b.js.map": "/linguabooks/static/js/main.2e01a30b.js.map",
+    "main.d93a2eb0.js.map": "/linguabooks/static/js/main.d93a2eb0.js.map",
     "787.e6cdad39.chunk.js.map": "/linguabooks/static/js/787.e6cdad39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f086c70f.css",
-    "static/js/main.2e01a30b.js"
+    "static/js/main.d93a2eb0.js"
   ]
 }
